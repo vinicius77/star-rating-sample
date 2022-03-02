@@ -1,0 +1,9 @@
+.ion-ios-star-outlines::before {
+  content: "\2605";
+  color: gray;
+}
+
+.ion-ios-start::before {
+  content: "\2605";
+  color: gold;
+}
